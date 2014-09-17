@@ -1,4 +1,5 @@
 docker-client-image
 ===================
 
-Dockerfile for pinning a version of the docker client
+This is a Dockerfile forked from https://github.com/tianon/dockerfiles but
+intended to be used as a docker client only to the parent docker server.
